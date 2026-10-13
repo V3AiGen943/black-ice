@@ -1,0 +1,38 @@
+BLACK ICE: PUT IT ON GITHUB PAGES (free, about 10 minutes)
+
+Files in this folder (upload all of them EXCEPT this one, if you like):
+  index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png, privacy.html
+
+STEP 1  Make the repository
+  - Go to github.com, click "+" (top right), "New repository".
+  - Name: black-ice   (lowercase, no spaces)
+  - Choose Public. (Free GitHub Pages needs Public. The page can't be hidden,
+    but nobody finds it unless you send the link.)
+  - Tick "Add a README file". Click "Create repository".
+
+STEP 2  Upload the files
+  - In the new repo click "Add file" > "Upload files".
+  - Drag in ALL the files from this folder (not the folder itself).
+  - Click "Commit changes".
+
+STEP 3  Turn on Pages
+  - Repo "Settings" > "Pages" (left menu).
+  - Under "Build and deployment" set Source: "Deploy from a branch".
+  - Branch: main, folder: / (root). Click Save.
+  - Wait 1 to 2 minutes, refresh. A box shows your address:
+      https://YOUR-USERNAME.github.io/black-ice/
+
+STEP 4  Check it
+  - Open the address. Green LIVE dot means feeds work.
+  - Phone or desktop Chrome/Edge: use "Install app" (address bar icon or menu).
+  - iPhone Safari: Share > Add to Home Screen.
+
+STEP 5  Send the link to a few friends
+  - Ask them: what confused you, what broke, which tab did you use?
+
+NOTES
+  - The https address is secured automatically (GitHub provides it).
+  - After you update a file, hard-refresh (Ctrl+F5) once to get the new version.
+  - Name lives in index.html (<title>) and manifest.webmanifest, plus the header text.
+  - Do not charge for this yet. Before charging: GoPlus written permission
+    (or remove the EVM contract check) and a trademark check.
